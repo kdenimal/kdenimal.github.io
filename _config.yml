@@ -91,6 +91,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.linkedin.com/in/kdenimal/"
 
 # Analytics
 analytics:
@@ -103,14 +104,14 @@ analytics:
 # Site Author
 author:
   name             : "Karine DENIMAL"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "A la recherche d'un stage d'Assistante Ressources Humaines avec une **motivation** sans faille."
   location         : "Lille"
   email            : karine.bettouche@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:karine.bettouche@gmail.com"
+      # url: "mailto:karine.bettouche@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -126,6 +127,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/kdenimal"
 
 # Site Footer
 footer:
@@ -148,6 +152,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/kdenimal"
 
 
 # Reading Files
